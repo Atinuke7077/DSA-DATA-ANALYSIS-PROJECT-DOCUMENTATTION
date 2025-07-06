@@ -57,16 +57,16 @@ stored as comma-separated values
 
 ## 📊 Visuals and Dashboard
 ### Raw Data
-https://github.com/Atinuke7077/DSA-DATA-ANALYSIS-PROJECT-DOCUMENTATTION/blob/1f4681606efbeb3004a23e2c48d2d8876e98bfef/Amazon%20Raw%20Data.PNG
+![image alt](https://github.com/Atinuke7077/DSA-DATA-ANALYSIS-PROJECT-DOCUMENTATTION/blob/1f4681606efbeb3004a23e2c48d2d8876e98bfef/Amazon%20Raw%20Data.PNG)
 
 ### Cleaned Data
-https://github.com/Atinuke7077/DSA-DATA-ANALYSIS-PROJECT-DOCUMENTATTION/blob/1f4681606efbeb3004a23e2c48d2d8876e98bfef/Cleaned%20Data.PNG
+![image alt](https://github.com/Atinuke7077/DSA-DATA-ANALYSIS-PROJECT-DOCUMENTATTION/blob/1f4681606efbeb3004a23e2c48d2d8876e98bfef/Cleaned%20Data.PNG)
 
 ### Pivot 1 & 2
-https://github.com/Atinuke7077/DSA-DATA-ANALYSIS-PROJECT-DOCUMENTATTION/blob/1f4681606efbeb3004a23e2c48d2d8876e98bfef/Pivot%20Table%201.PNG
-https://github.com/Atinuke7077/DSA-DATA-ANALYSIS-PROJECT-DOCUMENTATTION/blob/1f4681606efbeb3004a23e2c48d2d8876e98bfef/Pivot%20Table%202.PNG
+![image alt](https://github.com/Atinuke7077/DSA-DATA-ANALYSIS-PROJECT-DOCUMENTATTION/blob/1f4681606efbeb3004a23e2c48d2d8876e98bfef/Pivot%20Table%201.PNG)
+![image alt](https://github.com/Atinuke7077/DSA-DATA-ANALYSIS-PROJECT-DOCUMENTATTION/blob/1f4681606efbeb3004a23e2c48d2d8876e98bfef/Pivot%20Table%202.PNG)
 
 ### Amazon Dashboard
-https://github.com/Atinuke7077/DSA-DATA-ANALYSIS-PROJECT-DOCUMENTATTION/blob/1f4681606efbeb3004a23e2c48d2d8876e98bfef/Amazon%20Product%20Dashboard.PNG
+![image alt](https://github.com/Atinuke7077/DSA-DATA-ANALYSIS-PROJECT-DOCUMENTATTION/blob/1f4681606efbeb3004a23e2c48d2d8876e98bfef/Amazon%20Product%20Dashboard.PNG)
 
   
